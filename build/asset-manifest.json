@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/test-topsofter/build/static/css/main.5fc308e5.chunk.css",
-    "main.js": "/test-topsofter/build/static/js/main.192008b0.chunk.js",
-    "main.js.map": "/test-topsofter/build/static/js/main.192008b0.chunk.js.map",
+    "main.js": "/test-topsofter/build/static/js/main.800fe913.chunk.js",
+    "main.js.map": "/test-topsofter/build/static/js/main.800fe913.chunk.js.map",
     "runtime~main.js": "/test-topsofter/build/static/js/runtime~main.2c24f2be.js",
     "runtime~main.js.map": "/test-topsofter/build/static/js/runtime~main.2c24f2be.js.map",
     "static/js/2.695cf559.chunk.js": "/test-topsofter/build/static/js/2.695cf559.chunk.js",
     "static/js/2.695cf559.chunk.js.map": "/test-topsofter/build/static/js/2.695cf559.chunk.js.map",
     "index.html": "/test-topsofter/build/index.html",
-    "precache-manifest.714622352bde35e9a727e8c9a0cb09ac.js": "/test-topsofter/build/precache-manifest.714622352bde35e9a727e8c9a0cb09ac.js",
+    "precache-manifest.834e81ce1d465711a8bb1d7a8905f494.js": "/test-topsofter/build/precache-manifest.834e81ce1d465711a8bb1d7a8905f494.js",
     "service-worker.js": "/test-topsofter/build/service-worker.js",
     "static/css/main.5fc308e5.chunk.css.map": "/test-topsofter/build/static/css/main.5fc308e5.chunk.css.map"
   }

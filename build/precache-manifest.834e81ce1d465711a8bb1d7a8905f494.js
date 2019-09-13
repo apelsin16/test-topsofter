@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9258cbcc9dcb95ddc523467085dd4049",
+    "revision": "fb4a7c686a9fd9c8501ed0bb4b88c422",
     "url": "/test-topsofter/build/index.html"
   },
   {
-    "revision": "c4b6a883f3d634ee9c31",
+    "revision": "96ecf8f66bff0e904208",
     "url": "/test-topsofter/build/static/css/main.5fc308e5.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/test-topsofter/build/static/js/2.695cf559.chunk.js"
   },
   {
-    "revision": "c4b6a883f3d634ee9c31",
-    "url": "/test-topsofter/build/static/js/main.192008b0.chunk.js"
+    "revision": "96ecf8f66bff0e904208",
+    "url": "/test-topsofter/build/static/js/main.800fe913.chunk.js"
   },
   {
     "revision": "aca3c9dd97f66c9e71d3",
