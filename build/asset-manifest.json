@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.5fc308e5.chunk.css",
-    "main.js": "/static/js/main.97fd239d.chunk.js",
-    "main.js.map": "/static/js/main.97fd239d.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.695cf559.chunk.js": "/static/js/2.695cf559.chunk.js",
-    "static/js/2.695cf559.chunk.js.map": "/static/js/2.695cf559.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.cb4f5981e9e6c29e70ac1a88af2b8913.js": "/precache-manifest.cb4f5981e9e6c29e70ac1a88af2b8913.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5fc308e5.chunk.css.map": "/static/css/main.5fc308e5.chunk.css.map"
+    "main.css": "/test-topsofter/build/static/css/main.5fc308e5.chunk.css",
+    "main.js": "/test-topsofter/build/static/js/main.62096484.chunk.js",
+    "main.js.map": "/test-topsofter/build/static/js/main.62096484.chunk.js.map",
+    "runtime~main.js": "/test-topsofter/build/static/js/runtime~main.2c24f2be.js",
+    "runtime~main.js.map": "/test-topsofter/build/static/js/runtime~main.2c24f2be.js.map",
+    "static/js/2.695cf559.chunk.js": "/test-topsofter/build/static/js/2.695cf559.chunk.js",
+    "static/js/2.695cf559.chunk.js.map": "/test-topsofter/build/static/js/2.695cf559.chunk.js.map",
+    "index.html": "/test-topsofter/build/index.html",
+    "precache-manifest.dc984129ae3e95016bc4629f30054c04.js": "/test-topsofter/build/precache-manifest.dc984129ae3e95016bc4629f30054c04.js",
+    "service-worker.js": "/test-topsofter/build/service-worker.js",
+    "static/css/main.5fc308e5.chunk.css.map": "/test-topsofter/build/static/css/main.5fc308e5.chunk.css.map"
   }
 }
