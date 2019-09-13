@@ -1,0 +1,13 @@
+.List {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+.List-Item {
+    list-style: none;
+    min-width: 350px;
+    max-width: 45%;
+}
