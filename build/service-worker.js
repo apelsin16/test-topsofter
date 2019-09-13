@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/test-topsofter/build/precache-manifest.dc984129ae3e95016bc4629f30054c04.js"
+  "/test-topsofter/build/precache-manifest.714622352bde35e9a727e8c9a0cb09ac.js"
 );
 
 self.addEventListener('message', (event) => {
